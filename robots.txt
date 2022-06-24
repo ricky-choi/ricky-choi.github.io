@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ricky-choi.github.io/apt-deal-info/sitemap.xml
