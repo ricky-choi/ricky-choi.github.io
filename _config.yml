@@ -33,6 +33,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# search_google
+google-site-verification: google18e13d2f18035fd8.html
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
